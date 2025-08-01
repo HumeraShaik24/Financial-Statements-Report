@@ -1,9 +1,0 @@
-streamlit
-pandas
-scikit-learn
-matplotlib
-seaborn
-fpdf
-openai
-speechrecognition
-pyttsx3
